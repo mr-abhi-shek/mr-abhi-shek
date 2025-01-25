@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Kumar! 
 
-👨‍💻 **Aspiring Software Developer**  
+👨‍💻 **Aspiring Software Developer & Engineer**  
 🚀 **Currently Exploring:** Astro, Java, and Web Development  
 ➡️ **Passionate About:** Building innovative software solutions and contributing to meaningful projects  
 
